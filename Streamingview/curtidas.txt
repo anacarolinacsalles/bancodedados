@@ -1,0 +1,4 @@
+ana|1
+ana|2
+laura|1
+Ana Carolina|4

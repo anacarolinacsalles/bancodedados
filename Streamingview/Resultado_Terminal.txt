@@ -1,0 +1,169 @@
+PS C:\Users\carol\OneDrive\Área de Trabalho\Fundalg\Streamingview>  & 'c:\Users\carol\AppData\Local\Programs\Python\Python313\python.exe' 'c:\Users\carol\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '52063' '--' 'C:\Users\carol\OneDrive\Área de Trabalho\Fundalg\Streamingview\feitv.py' 
+
+=== FEItv ===
+1. Cadastrar usuário
+2. Login
+0. Sair
+Escolha: 2
+Digite seu nome: Ana Carolina
+Digite sua senha: 1234
+Login realizado!
+
+ FEItv | Seja bem vindo (a), Ana Carolina! O que deseja fazer?
+1. Buscar vídeo
+2. Curtir/Descurtir vídeo
+3. Favoritos
+0. Sair
+Escolha: 1
+Digite o nome do vídeo: Jogo  
+Título: O Jogo da Imitação
+Gênero: Guerra
+Ano: 2015
+Sinopse: Um matemático brilhante lidera uma equipe secreta para decifrar os códigos nazistas na Segunda Guerra.
+
+
+ FEItv | Seja bem vindo (a), Ana Carolina! O que deseja fazer?
+1. Buscar vídeo
+2. Curtir/Descurtir vídeo
+3. Favoritos
+0. Sair
+Escolha: 2
+Digite o nome do vídeo: Jogo
+[1] O Jogo da Imitação
+Digite o número do vídeo: 1
+Vídeo curtido!
+
+ FEItv | Seja bem vindo (a), Ana Carolina! O que deseja fazer?
+1. Buscar vídeo
+2. Curtir/Descurtir vídeo
+3. Favoritos
+0. Sair
+Escolha: 3
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 1
+Digite o nome da lista: Dorama
+Lista criada com sucesso!
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 2
+Lista: Dorama
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 2
+Lista: Dorama
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 2
+Lista: Dorama
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 3
+Lista: Dorama
+Digite o nome da lista: Dorama
+Digite o nome do vídeo: Amor
+[1] Holo Meu Amor
+Número do vídeo: 1
+Vídeo adicionado!
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 4
+Lista: Dorama
+ - Holo Meu Amor
+Digite o nome da lista: Dorama 
+[1] Holo Meu Amor
+Número do vídeo para remover: 1
+Vídeo removido!
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 5
+Lista: Dorama
+Digite o nome da lista para renomear: Dorama
+Digite o novo nome: Doramas
+Lista renomeada!
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 6
+Lista: Doramas
+Digite o nome da lista para excluir: Doramas
+Lista excluída!
+
+--- FAVORITOS ---
+1. Criar lista
+2. Ver listas
+3. Adicionar vídeo
+4. Remover vídeo
+5. Renomear lista
+6. Excluir lista
+0. Voltar
+Escolha: 0
+
+ FEItv | Seja bem vindo (a), Ana Carolina! O que deseja fazer?
+1. Buscar vídeo
+2. Curtir/Descurtir vídeo
+3. Favoritos
+0. Sair
+Escolha: 0
+
+=== FEItv ===
+1. Cadastrar usuário
+2. Login
+0. Sair
+Escolha: 0
+Até mais!
