@@ -1,57 +1,73 @@
-# 📊 Dashboard — Faturamento Comercial de Vendas
+📊 Projeto de Estudos em Banco de Dados
 
-Dashboard interativo desenvolvido no Power BI para análise de faturamento comercial, com visão consolidada de receita, vendas, devoluções e desempenho por marca, continente e período.
+Este repositório reúne meus estudos práticos e teóricos sobre bancos de dados e análise de dados, utilizando tecnologias como SQL, MongoDB, Python e Power BI. O objetivo é consolidar conceitos e desenvolver habilidades voltadas para análise, manipulação e visualização de dados.
 
-**Autora:** Ana Carolina Salles
+🚀 Tecnologias utilizadas
+🐍 Python
+🗄️ SQL (MySQL / PostgreSQL)
+🍃 MongoDB
+📊 Power BI
+📦 Bibliotecas Python:
+pandas
+pymongo
+sqlalchemy
+📚 Conteúdos abordados
+🔹 SQL
+Criação de tabelas
+Consultas (SELECT, WHERE, JOIN)
+Agregações (COUNT, SUM, AVG)
+Normalização de dados
+🔹 MongoDB
+Modelagem de documentos
+CRUD (Create, Read, Update, Delete)
+Consultas com filtros
+Integração com Python (pymongo)
+🔹 Python para dados
+Manipulação com pandas
+Conexão com bancos de dados
+Scripts de automação
+Limpeza e tratamento de dados
+🔹 Power BI
+Criação de dashboards interativos
+Modelagem de dados
+ETL com Power Query
+Criação de medidas com DAX
+Visualização de dados e storytelling
+📁 Estrutura do repositório
+/sql
+  └── scripts_sql.sql
 
----
+/mongodb
+  └── exemplos_mongo.py
 
-## 📈 KPIs Principais
+/python
+  └── analise_dados.py
 
-| Indicador | Valor |
-|---|---|
-| 💰 Receita Total | $548,51 Mi |
-| 🛒 Total de Vendas | 2 Mi |
-| 🎯 Ticket Médio | $478,65 |
-| 👥 Qtd de Clientes | $7,5 Mil |
+/powerbi
+  └── dashboards.pbix
+🧠 Objetivo
 
----
+Desenvolver habilidades práticas em:
 
-## 📋 Visões do Dashboard
+Modelagem de dados
+Consultas eficientes
+Integração entre diferentes tecnologias
+Visualização e interpretação de dados
+Preparação para projetos reais na área de dados
+▶️ Como executar
+Clone o repositório:
+git clone https://github.com/seu-usuario/seu-repositorio.git
+Instale as dependências:
+pip install -r requirements.txt
+Execute os scripts ou abra os arquivos no Power BI conforme necessário.
+📌 Próximos passos
+ Criar dashboards mais avançados no Power BI
+ Integrar dados em tempo real
+ Desenvolver API conectada ao banco
+ Trabalhar com datasets públicos
+👩‍💻 Sobre mim
 
-- **Faturamento total por Ano e Mês** — gráfico de área mostrando a evolução do faturamento entre jan/2022 e jul/2024
-- **Total de Devoluções por Gênero** — gráfico de rosca com distribuição entre Feminino (44,89%) e Masculino (55,11%)
-- **Faturamento total por Continente** — mapa geográfico interativo com distribuição global das vendas
-- **Faturamento total por Marca** — gráfico de barras horizontais com ranking das marcas por faturamento, destacando Contoso como líder com $221,90 Mi
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- Power BI — desenvolvimento do dashboard e visualizações
-- Microsoft Excel — fonte de dados
-
----
-
-## 📁 Estrutura do Projeto
-
-```
-📦 faturamento-comercial
- ┣ 📊 faturamento_comercial.pbix   — arquivo do dashboard Power BI
- ┣ 📂 dados/
- ┃ ┗ 📄 dados_vendas.xlsx          — base de dados em Excel
- ┗ 📄 README.md
-```
-
----
-
-## 🚀 Como Visualizar
-
-1. Faça o download do arquivo `.pbix`
-2. Abra no **Power BI Desktop**
-3. Os dados serão carregados automaticamente a partir do Excel
-
----
+Estudante de tecnologia com foco em dados, explorando ferramentas modernas para análise, engenharia e visualização de dados.
 
 ## 👩‍💻 Autora
 
